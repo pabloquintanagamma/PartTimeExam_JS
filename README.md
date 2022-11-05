@@ -41,6 +41,6 @@ Escribe una función que acepte dos números y devuelva cuál es el mayor, o bie
  Resultado esperado: `The largest number is [number]`.
  O: `The numbers are equal`.
  
- ##Ejericio 9
+ ## Ejercicio 9
 
 Escribe una función que acepte un número y muestre por consola una cuenta atrás, es decir, una lista de numeros desde el número tecleado hasta el 0. Después, debe mostrar por consola la cuenta desde 0 hasta el número introducido. 
