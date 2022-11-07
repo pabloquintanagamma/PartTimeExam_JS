@@ -49,7 +49,7 @@ Escribe una función que acepte un número y muestre por consola una cuenta atr�
 
 
 
-#PARTE B
+# PARTE B
 
 ## Ejercicio 10
 Escribe una función que acepte dos argumentos: un array de strings y un string. La función debe devolver el número de veces que el string aparece en la array.
