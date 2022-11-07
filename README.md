@@ -2,7 +2,7 @@
 
 # Examen de JS
 
-#PARTE A
+# PARTE A
 
 ## Ejercicio 1
 Crea una función que acepte un array de números y devuelva la suma de los números impares del array.
