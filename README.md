@@ -125,7 +125,7 @@ Resultado esperado: `The month has [number of days] days`.
 Escribe una función que acepte un array de strings y devuelva otro array con los elementos del primer array que tengan menos de 5 letras:
 ```javascript
 const arr = ["casa", "reloj", "carótida", "coco", "elemento", "GammaTech", "dado"];
-
+```
 getSmallWords(arr) // ["casa", "coco", "dado"]
 
 
@@ -136,7 +136,7 @@ const myObj = {
 	name: "Pedro",
 	age: 35
 }
-
+```
 getProps(myObj) // [ ["name", "Pedro"], ["age", 35] ]
 
 
